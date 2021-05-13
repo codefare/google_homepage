@@ -1,0 +1,99 @@
+nav div a {
+  text-decoration: none;
+  padding: 15px 15px 15px 15px;
+  color: black;
+}
+nav div a:hover {
+  text-decoration: underline;
+}
+nav {
+  display: flex;
+  margin-top: 20px;
+}
+.left {
+  margin-right: auto;
+}
+.right {
+  margin-left: auto;
+}
+
+.logo {
+  height: 50%rem;
+  width: 50%rem;
+  margin-top: 100px;
+}
+hero-container {
+  height: 100%vh;
+  width: 100%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.voice {
+  height: 20px;
+  display: block;
+  margin-left: auto;
+  padding: 3px 3px 3px 3px;
+}
+.search {
+  height: 20px;
+  display: block;
+  margin-right: auto;
+  padding: 3px 3px 3px 3px;
+}
+.bar {
+  margin: 20px auto;
+  width: 30rem;
+  border-radius: 30px;
+  border: 1px solid #dcdcdc;
+  display: flex;
+  align-items: center;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+.google-search {
+  font-size: 15px;
+  padding: 10px 10px 10px 10px;
+  margin-right: 7px;
+  background-color: rgba(128, 128, 128, 5%);
+  border-style: none;
+}
+.im-feeling-lucky {
+  font-size: 15px;
+  padding: 10px 10px 10px 10px;
+  margin-left: 7px;
+  background-color: rgba(128, 128, 128, 5%);
+  border-style: none;
+}
+.google-sub-link {
+  text-decoration: none;
+}
+.sub-link-container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.footer-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 250px;
+}
+.left-footer {
+  margin-right: auto;
+  margin-left: 50px;
+}
+.right-footer {
+  margin-left: auto;
+  margin-right: 50px;
+
+nav div a:hover {
+    text-decoration: underline;
+}
+
+.footer-wrap {
+    background: blue;
+}
