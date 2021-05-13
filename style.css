@@ -80,7 +80,7 @@ hero-container {
 .footer-container {
   display: flex;
   justify-content: center;
-  margin-top: 250px;
+  margin-top: 200px;
 }
 .left-footer {
   margin-right: auto;
